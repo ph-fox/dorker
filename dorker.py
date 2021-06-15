@@ -52,8 +52,9 @@ def dorks():
 
         requ = 0
         flag = 0
-
-        for results in search(dork, tld="com", lang="en", num=int(amount), start=0, stop=None, pause=2):
+        
+        for results in search(dork, lang="en", num_results=int(amount)):
+        #for results in search(dork, tld="com", lang="en", num=int(amount), start=0, stop=None, pause=2):
             flag = flag + 1
             print(f"{c}",results)
             time.sleep(0.1)
