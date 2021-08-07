@@ -12,4 +12,4 @@ run it with `python3 dorker.py`
 *Example:*
  - [✔] python3 dorker.py -a  inurl:index.php?id=
  - [❌] python3 dorker.py -a inurl: index.php?id=
-                                   ⎿Space is Here! ⚠
+ -                                 ⎿Space is Here! ⚠
