@@ -1,4 +1,4 @@
-# Dorker
+<img src="https://github.com/abalesluke/dorker/blob/main/imgs/dorker_logo.png?raw=true">
 ## 🔍 A Cli Dork-Searcher Tool
 
 run it with `python3 dorker.py`
