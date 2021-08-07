@@ -1,3 +1,2 @@
 # dorker
-
-hello pls use the new_dorker.py
+run it with python3
