@@ -1,5 +1,5 @@
 # Dorker
-## A Cli Dork-Searcher Too 🔎
+## 🔎 A Cli Dork-Searcher Tool
 
 run it with `python3 dorker.py`
 
