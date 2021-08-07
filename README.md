@@ -1,2 +1,4 @@
-# dorker
-run it with python3 dorker.py
+# Dorker
+## A Cli Dorksearcher Tool
+
+run it with `python3 dorker.py`
