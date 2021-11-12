@@ -3,10 +3,10 @@
 
 run it with `python3 dorker.py`
 
-**Note:** When do not add spaces when entering your dork
+**Note:** When executing do not add spaces when entering your dork
 *Example:*
- - [✔] python3 dorker.py -a  inurl:index.php?id=
- - [❌] python3 dorker.py -a inurl: index.php?id=
+ - [✔] python3 dorker.py -d inurl:index.php?id= -a 10
+ - [❌] python3 dorker.py -d inurl: index.php?id= -a 10
  - [⚠]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⎿ See The Space Here/Above this msg where the line points! ⚠
 
 
